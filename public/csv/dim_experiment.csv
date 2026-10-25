@@ -1,0 +1,43 @@
+experiment_key,experiment_code,experiment_name,test_area,hypothesis,primary_success_metric,start_date,planned_end_date,status_as_of_2026_10_24,is_synthetic_experiment
+1,AB-001,Offer Framing iteration 01,Offer Framing,Alternative offer framing will improve payer conversion without reducing retention.,d7_retention_rate,2026-01-19,2026-02-13,Complete,true
+2,AB-002,Offer Framing iteration 02,Offer Framing,Alternative offer framing will improve payer conversion without reducing retention.,payer_conversion_rate,2025-07-24,2025-08-21,Complete,true
+3,AB-003,Onboarding iteration 03,Onboarding,A clearer first-session path will improve completion.,d7_retention_rate,2026-05-08,2026-05-31,Complete,true
+4,AB-004,Offer Framing iteration 04,Offer Framing,Alternative offer framing will improve payer conversion without reducing retention.,d7_retention_rate,2025-06-05,2025-06-30,Complete,true
+5,AB-005,Offer Framing iteration 05,Offer Framing,Alternative offer framing will improve payer conversion without reducing retention.,payer_conversion_rate,2025-12-14,2026-01-08,Complete,true
+6,AB-006,Store Layout iteration 06,Store Layout,A simpler offer hierarchy will increase purchase conversion.,tutorial_completion_rate,2026-04-26,2026-05-16,Complete,true
+7,AB-007,Progression iteration 07,Progression,Adjusted progression pacing will improve early engagement.,payer_conversion_rate,2026-09-22,2026-10-10,Complete,true
+8,AB-008,Store Layout iteration 08,Store Layout,A simpler offer hierarchy will increase purchase conversion.,tutorial_completion_rate,2026-01-24,2026-02-09,Complete,true
+9,AB-009,Notification Timing iteration 09,Notification Timing,A revised notification window will increase useful return visits.,tutorial_completion_rate,2026-05-03,2026-05-31,Complete,true
+10,AB-010,Onboarding iteration 10,Onboarding,A clearer first-session path will improve completion.,tutorial_completion_rate,2026-08-06,2026-08-27,Complete,true
+11,AB-011,Store Layout iteration 11,Store Layout,A simpler offer hierarchy will increase purchase conversion.,d7_retention_rate,2026-09-01,2026-09-18,Complete,true
+12,AB-012,Notification Timing iteration 12,Notification Timing,A revised notification window will increase useful return visits.,d7_retention_rate,2026-08-16,2026-08-30,Complete,true
+13,AB-013,Onboarding iteration 13,Onboarding,A clearer first-session path will improve completion.,tutorial_completion_rate,2025-10-26,2025-11-10,Complete,true
+14,AB-014,Progression iteration 14,Progression,Adjusted progression pacing will improve early engagement.,tutorial_completion_rate,2025-08-24,2025-09-20,Complete,true
+15,AB-015,Session Flow iteration 15,Session Flow,A more direct session loop will improve short-term return behavior.,tutorial_completion_rate,2025-08-16,2025-09-08,Complete,true
+16,AB-016,Notification Timing iteration 16,Notification Timing,A revised notification window will increase useful return visits.,payer_conversion_rate,2025-07-08,2025-07-30,Complete,true
+17,AB-017,Progression iteration 17,Progression,Adjusted progression pacing will improve early engagement.,tutorial_completion_rate,2025-12-26,2026-01-12,Complete,true
+18,AB-018,Progression iteration 18,Progression,Adjusted progression pacing will improve early engagement.,tutorial_completion_rate,2025-05-02,2025-05-24,Complete,true
+19,AB-019,Session Flow iteration 19,Session Flow,A more direct session loop will improve short-term return behavior.,payer_conversion_rate,2026-08-28,2026-09-22,Complete,true
+20,AB-020,Progression iteration 20,Progression,Adjusted progression pacing will improve early engagement.,d7_retention_rate,2026-05-20,2026-06-05,Complete,true
+21,AB-021,Offer Framing iteration 21,Offer Framing,Alternative offer framing will improve payer conversion without reducing retention.,tutorial_completion_rate,2025-12-28,2026-01-15,Complete,true
+22,AB-022,Store Layout iteration 22,Store Layout,A simpler offer hierarchy will increase purchase conversion.,tutorial_completion_rate,2025-07-24,2025-08-10,Complete,true
+23,AB-023,Onboarding iteration 23,Onboarding,A clearer first-session path will improve completion.,d7_retention_rate,2025-04-01,2025-04-27,Complete,true
+24,AB-024,Store Layout iteration 24,Store Layout,A simpler offer hierarchy will increase purchase conversion.,d7_retention_rate,2026-03-09,2026-03-25,Complete,true
+25,AB-025,Progression iteration 25,Progression,Adjusted progression pacing will improve early engagement.,d7_retention_rate,2026-05-27,2026-06-23,Complete,true
+26,AB-026,Notification Timing iteration 26,Notification Timing,A revised notification window will increase useful return visits.,payer_conversion_rate,2025-12-15,2025-12-30,Complete,true
+27,AB-027,Progression iteration 27,Progression,Adjusted progression pacing will improve early engagement.,tutorial_completion_rate,2026-09-15,2026-10-09,Complete,true
+28,AB-028,Notification Timing iteration 28,Notification Timing,A revised notification window will increase useful return visits.,payer_conversion_rate,2026-10-02,2026-10-27,Running,true
+29,AB-029,Offer Framing iteration 29,Offer Framing,Alternative offer framing will improve payer conversion without reducing retention.,payer_conversion_rate,2026-07-03,2026-07-21,Complete,true
+30,AB-030,Onboarding iteration 30,Onboarding,A clearer first-session path will improve completion.,tutorial_completion_rate,2026-10-13,2026-10-27,Running,true
+31,AB-031,Progression iteration 31,Progression,Adjusted progression pacing will improve early engagement.,d7_retention_rate,2026-09-24,2026-10-17,Complete,true
+32,AB-032,Store Layout iteration 32,Store Layout,A simpler offer hierarchy will increase purchase conversion.,payer_conversion_rate,2026-07-25,2026-08-16,Complete,true
+33,AB-033,Offer Framing iteration 33,Offer Framing,Alternative offer framing will improve payer conversion without reducing retention.,payer_conversion_rate,2025-07-18,2025-08-10,Complete,true
+34,AB-034,Onboarding iteration 34,Onboarding,A clearer first-session path will improve completion.,d7_retention_rate,2026-05-03,2026-05-17,Complete,true
+35,AB-035,Store Layout iteration 35,Store Layout,A simpler offer hierarchy will increase purchase conversion.,payer_conversion_rate,2026-07-07,2026-07-27,Complete,true
+36,AB-036,Notification Timing iteration 36,Notification Timing,A revised notification window will increase useful return visits.,tutorial_completion_rate,2025-05-09,2025-05-31,Complete,true
+37,AB-037,Onboarding iteration 37,Onboarding,A clearer first-session path will improve completion.,d7_retention_rate,2025-12-06,2025-12-26,Complete,true
+38,AB-038,Session Flow iteration 38,Session Flow,A more direct session loop will improve short-term return behavior.,tutorial_completion_rate,2025-12-07,2025-12-22,Complete,true
+39,AB-039,Progression iteration 39,Progression,Adjusted progression pacing will improve early engagement.,d7_retention_rate,2026-07-01,2026-07-16,Complete,true
+40,AB-040,Store Layout iteration 40,Store Layout,A simpler offer hierarchy will increase purchase conversion.,payer_conversion_rate,2025-12-31,2026-01-21,Complete,true
+41,AB-041,Onboarding iteration 41,Onboarding,A clearer first-session path will improve completion.,tutorial_completion_rate,2026-07-16,2026-08-08,Complete,true
+42,AB-042,Progression iteration 42,Progression,Adjusted progression pacing will improve early engagement.,d7_retention_rate,2025-07-03,2025-07-22,Complete,true

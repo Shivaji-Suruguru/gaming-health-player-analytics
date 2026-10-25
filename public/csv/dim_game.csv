@@ -1,0 +1,8 @@
+game_key,game_code,game_name,game_genre,lifecycle_stage,is_synthetic_title
+1,SG01,Puzzle Harbor,Puzzle,Live,true
+2,SG02,Orbit Tactics,Strategy,Live,true
+3,SG03,Mythic Meadows,Merge,Growth,true
+4,SG04,Turbo Trail,Racing,Live,true
+5,SG05,Castle & Clover,Casual Strategy,Growth,true
+6,SG06,Wordsmith Quest,Word,Mature,true
+7,SG07,Merge Atelier,Merge,New,true

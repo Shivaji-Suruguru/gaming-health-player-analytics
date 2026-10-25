@@ -1,0 +1,8 @@
+source_channel_key,source_channel_name,channel_group,is_paid_channel,is_trackable_click_channel
+1,Organic,Owned / Organic,false,false
+2,Paid Social,Paid Media,true,true
+3,Search Ads,Paid Media,true,true
+4,Ad Networks,Paid Media,true,true
+5,Cross-Promotion,Owned / Cross-Promo,false,true
+6,Influencer,Partnerships,true,true
+7,Referral,Owned / Referral,false,true

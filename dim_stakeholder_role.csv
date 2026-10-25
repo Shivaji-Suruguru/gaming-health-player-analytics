@@ -1,0 +1,25 @@
+stakeholder_role_key,role_title,department,career_level,reader_group,primary_analytics_use,is_synthetic_role
+1,Product Manager,Product Management,Associate,Product managers,Portfolio KPI review and prioritization,true
+2,Senior Product Manager,Product Management,Senior,Product managers,Portfolio KPI review and prioritization,true
+3,Product Lead,Product Management,Lead,Product managers,Portfolio KPI review and prioritization,true
+4,Game Designer,Game Design,Associate,Designers,"Engagement loops, onboarding and experiments",true
+5,Senior Game Designer,Game Design,Senior,Designers,"Engagement loops, onboarding and experiments",true
+6,Lead Game Designer,Game Design,Lead,Designers,"Engagement loops, onboarding and experiments",true
+7,Product Designer,Design,Associate,Designers,UX flows and feature experiments,true
+8,Senior Product Designer,Design,Senior,Designers,UX flows and feature experiments,true
+9,Software Engineer,Engineering,Associate,Engineers,Platform health and instrumentation quality,true
+10,Senior Software Engineer,Engineering,Senior,Engineers,Platform health and instrumentation quality,true
+11,Engineering Lead,Engineering,Lead,Engineers,Platform health and instrumentation quality,true
+12,QA Engineer,Quality Engineering,Associate,Engineers,Crash and quality monitoring,true
+13,Senior QA Engineer,Quality Engineering,Senior,Engineers,Crash and quality monitoring,true
+14,Data Analyst Intern,Product Analytics,Intern,Analytics,"Metric definitions, dashboarding and test readouts",true
+15,Product Analyst,Product Analytics,Associate,Analytics,"Metric definitions, dashboarding and test readouts",true
+16,Senior Data Analyst,Product Analytics,Senior,Analytics,"Metric definitions, dashboarding and test readouts",true
+17,Analytics Manager,Product Analytics,Manager,Analytics,Metric governance and decision support,true
+18,Data Engineer,Data Engineering,Associate,Analytics,Reliable pipelines and dimensional models,true
+19,Senior Data Engineer,Data Engineering,Senior,Analytics,Reliable pipelines and dimensional models,true
+20,Growth Marketing Specialist,Growth Marketing,Associate,Growth,Channel efficiency and cohort quality,true
+21,Growth Marketing Manager,Growth Marketing,Manager,Growth,Channel efficiency and cohort quality,true
+22,Monetization Analyst,Monetization,Associate,Product managers,Payer conversion and revenue quality,true
+23,Monetization Lead,Monetization,Lead,Product managers,Payer conversion and revenue quality,true
+24,LiveOps Producer,Live Operations,Associate,Product managers,Live-game performance and event outcomes,true
